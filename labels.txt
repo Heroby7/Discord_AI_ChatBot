@@ -1,0 +1,5 @@
+0 Meşe
+1 Çınar
+2 Kavak
+3 Karaçam
+4 Akçaağaç
